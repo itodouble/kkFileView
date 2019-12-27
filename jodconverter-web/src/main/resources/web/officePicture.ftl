@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <title>PDF图片预览</title>
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
     <script src="js/lazyload.js"></script>
     <style>
         .container{
